@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-luiz&layout=compact&theme=tokyonight&langs_count=10" alt="statistics of languages used">
 </div>
   
+<br>
+  
 <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Victor-Java">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Victor-Ts">
@@ -33,6 +35,7 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Victor-AngularJs">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Victor-React">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Victor-Ionic">
+  <img align="right" src="https://cdn.discordapp.com/avatars/378967907658366996/aa4445eb6cbd515b86b596b4031c11b4.webp" alt="Victor-avatar">
 </div>
   
 ##
